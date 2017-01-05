@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Fictitious Alcohol Demand Data - created by Steve Ludlow
 
-You can use the [editor on GitHub](https://github.com/suksel/SASData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Table - ALCOHOL_DEMAND
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Description
 
-### Markdown
+The Alchohol_Demand data was created so that a story around price elasticities of demand for beer could be used in Visual Statistics. 
+Data on beer consumption in public houses (bars) over 24 months is captured for around 1000 people. This includes own price, competitive prices, household income and hours worked.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Enough fields are available that the main features of Visual Analytics, filters, hierarchies, maps, correlations, and forecasts can also be shown. The log values can then be used to show Price Elasticities of Demand. This data could also be used in Enterprise Guide, Enterprise Miner and SAS/Studio.
 
-```markdown
-Syntax highlighted code block
+Creator	Steve Ludlow 
 
-# Header 1
-## Header 2
-### Header 3
+Email	Stephen.Ludlow@sas.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suksel/SASData/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Real or Simulated - Simulated
+Based on 	Her Majesty’s Revenue and Customs paper from - Huang, C.-D. (2003). “Econometric models of alcohol demand in the United Kingdom”, Government Economic Service Working Paper No. 140, HM Customs and Excise.
